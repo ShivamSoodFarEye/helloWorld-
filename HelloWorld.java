@@ -11,12 +11,10 @@ class HelloWorld
 	{
 
 		System.out.println("Hello the World !!");
-<<<<<<< HEAD
-		System.out.println("!!Working on the random branch ");
-=======
+
 		System.out.println("Working on the random branch !!");
 		System.out.println("Working on the random branch 2!!");
->>>>>>> random
+
 
 	}
 }
